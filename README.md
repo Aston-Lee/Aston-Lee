@@ -21,15 +21,15 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Aston</a></b>
+        <samp>&gt; Hey There!, I am Aston
+                <!-- <b><a target="_blank" href="https://alsiam.com">Aston</a></b> -->
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+    <!-- <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a> -->
     <br>
     「 I am a Computer Sciebce Student currently in <b>Houston</b> 」
     <br>
@@ -53,9 +53,9 @@
  <a href="https://instagram.com/aston_2319" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <!-- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a>  -->
+  <!-- <a href="https://facebook.com/alsiam.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+    </a>  -->
 </p>
 <br />
 
@@ -67,8 +67,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: yl258@rice.edu / kmes9960605@gmail.com<br/><br/>
+ <!-- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues) -->
 
 </p>
 
