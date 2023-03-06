@@ -12,8 +12,8 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=Aston-Lee">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Aston-Lee&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -128,7 +128,8 @@
 
 <a> 
     <a href="https://github.com/Aston-Lee"><img alt="Aston's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Aston-Lee&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Aston-Lee"><img alt="Aston's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aston-Lee&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Aston-Lee"><img alt="Aston's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aston-Lee&langs_count=8&layout=compact&theme=dracula&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <br/>
 </a>
 
