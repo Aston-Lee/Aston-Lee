@@ -16,7 +16,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Aston-Lee&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <!-- Intro  -->
@@ -25,7 +24,6 @@
                 <!-- <b><a target="_blank" href="https://alsiam.com">Aston</a></b> -->
         </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -59,13 +57,18 @@
  <a href="https://open.spotify.com/user/11128670317?si=0ac4d84385ec4490" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Aston" />
  </a> 
-
+  <a href="mailto:yl258@rice.edu" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Aston" />
+ </a> 
+   <a href="https://github.com/Aston-Lee" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Aston" />
 </p>
 <br />
 
 <!-- About Section -->
- # About me
- 
+
+# About me
+
 <p>
  <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
   
@@ -106,6 +109,7 @@
 <br/>
 
 ## Top Open Source -
+
 <!-- [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
 [![Al Siam](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam) -->
@@ -136,6 +140,5 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <br/>
 </a>
-
 
 ![Aston's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aston-Lee&custom_title=Aston%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
