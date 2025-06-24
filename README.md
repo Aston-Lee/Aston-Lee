@@ -73,7 +73,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: yl258@rice.edu / kmes9960605@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: aston@xmad.ai / kmes9960605@gmail.com<br/><br/>
  <!-- 💬 &emsp; Ask me about anything [here](https://github.com/Aston-Lee/Aston-Lee/issues) -->
 
 </p>
