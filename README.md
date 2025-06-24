@@ -56,7 +56,7 @@
  <a href="https://open.spotify.com/user/11128670317?si=0ac4d84385ec4490" target="_blank">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Aston" />
  </a> 
-  <a href="mailto:yl258@rice.edu" target="_blank">
+  <a href="mailto:aston@xmad.ai" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Aston" />
  </a> 
    <a href="https://github.com/Aston-Lee" target="_blank">
